@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_9903_T48_7010264">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 9903</ph> - CONTRACT COVERAGE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           Public Law 111-350, 124 Stat. 3677, 41 U.S.C. 1502.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           57 FR 14153, Apr. 17, 1992, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_9903_1_T48_70102641.dita#Subpart_9903_1_T48_70102641">Subpart 9903.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_101_T48_7010264111.dita#Section_9903_101_T48_7010264111">9903.101 Cost Accounting Standards.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_102_T48_7010264112.dita#Section_9903_102_T48_7010264112">9903.102 OMB approval under the Paperwork Reduction Act.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_9903_2_T48_70102642.dita#Subpart_9903_2_T48_70102642">Subpart 9903.2 - CAS Program Requirements</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_T48_7010264211.dita#Section_9903_201_T48_7010264211">9903.201 Contract requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_1_T48_7010264212.dita#Section_9903_201_1_T48_7010264212">9903.201-1 CAS applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_2_T48_7010264213.dita#Section_9903_201_2_T48_7010264213">9903.201-2 Types of CAS coverage.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_3_T48_7010264214.dita#Section_9903_201_3_T48_7010264214">9903.201-3 Solicitation provisions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_4_T48_7010264215.dita#Section_9903_201_4_T48_7010264215">9903.201-4 Contract clauses.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_5_T48_7010264216.dita#Section_9903_201_5_T48_7010264216">9903.201-5 Waiver.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_6_T48_7010264217.dita#Section_9903_201_6_T48_7010264217">9903.201-6 Findings.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_7_T48_7010264218.dita#Section_9903_201_7_T48_7010264218">9903.201-7 Cognizant Federal agency responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_201_8_T48_7010264219.dita#Section_9903_201_8_T48_7010264219">9903.201-8 Compliant accounting changes due to external restructuring activities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_T48_70102642110.dita#Section_9903_202_T48_70102642110">9903.202 Disclosure requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_1_T48_70102642111.dita#Section_9903_202_1_T48_70102642111">9903.202-1 General requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_2_T48_70102642112.dita#Section_9903_202_2_T48_70102642112">9903.202-2 Impracticality of submission.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_3_T48_70102642113.dita#Section_9903_202_3_T48_70102642113">9903.202-3 Amendments and revisions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_4_T48_70102642114.dita#Section_9903_202_4_T48_70102642114">9903.202-4 Privileged and confidential information.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_5_T48_70102642115.dita#Section_9903_202_5_T48_70102642115">9903.202-5 Filing Disclosure Statements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_6_T48_70102642116.dita#Section_9903_202_6_T48_70102642116">9903.202-6 Adequacy of Disclosure Statement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_7_T48_70102642117.dita#Section_9903_202_7_T48_70102642117">9903.202-7 [Reserved]</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_8_T48_70102642118.dita#Section_9903_202_8_T48_70102642118">9903.202-8 Subcontractor Disclosure Statements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_9_T48_70102642119.dita#Section_9903_202_9_T48_70102642119">9903.202-9 Illustration of Disclosure Statement Form, CASB-DS-1.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_202_10_T48_70102642120.dita#Section_9903_202_10_T48_70102642120">9903.202-10 Illustration of Disclosure Statement Form, CASB DS-2.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_9903_3_T48_70102643.dita#Subpart_9903_3_T48_70102643">Subpart 9903.3 - CAS Rules and Regulations</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_301_T48_7010264311.dita#Section_9903_301_T48_7010264311">9903.301 Definitions.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_302_T48_7010264312.dita#Section_9903_302_T48_7010264312">9903.302 Definitions, explanations, and illustrations of the terms, “cost accounting practice” and “change to a cost accounting practice.”</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_302_1_T48_7010264313.dita#Section_9903_302_1_T48_7010264313">9903.302-1 Cost accounting practice.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_302_2_T48_7010264314.dita#Section_9903_302_2_T48_7010264314">9903.302-2 Change to a cost accounting practice.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_302_3_T48_7010264315.dita#Section_9903_302_3_T48_7010264315">9903.302-3 Illustrations of changes which meet the definition of “change to a cost accounting practice.”</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_302_4_T48_7010264316.dita#Section_9903_302_4_T48_7010264316">9903.302-4 Illustrations of changes which do not meet the definition of “Change to a cost accounting practice.”</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_303_T48_7010264317.dita#Section_9903_303_T48_7010264317">9903.303 Effect of filing Disclosure Statement.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_304_T48_7010264318.dita#Section_9903_304_T48_7010264318">9903.304 Concurrent full and modified coverage.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_305_T48_7010264319.dita#Section_9903_305_T48_7010264319">9903.305 Materiality.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_306_T48_70102643110.dita#Section_9903_306_T48_70102643110">9903.306 Interpretations.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_9903_307_T48_70102643111.dita#Section_9903_307_T48_70102643111">9903.307 Cost Accounting Standards Preambles.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
