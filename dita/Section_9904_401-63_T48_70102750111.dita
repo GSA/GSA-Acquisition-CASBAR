@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_9904_401-63_T48_70102750111">
-      <title class="- topic/title ">
-         <ph props="autonumber">9904.401-63</ph> Effective date.</title>
-      <conbody>
-         <p xtrc="P">This Standard is effective as of April 17, 1992.
+  <concept id="section_Section_9904_401_63_T48_70102750111_dita" outputclass="Section">
+    <title>9904.401-63 Effective date.</title>
+    <conbody>
+      <p>This Standard is effective as of April 17, 1992.
 </p>
-      </conbody>
-   </concept>
+      <p outputclass="citation">[57 FR 14153, Apr. 17, 1992; 57 FR 34167, Aug. 3, 1992]
+
+
+</p>
+    </conbody>
+  </concept>
 </dita>

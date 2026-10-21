@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_9903_201-1_T48_7010274212">
-      <title class="- topic/title ">
-         <ph props="autonumber">9903.201-1</ph> CAS applicability.</title>
-      <conbody>
-         <p outputclass="List1">(a) This subsection describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. (See 9904 or 9905, as applicable.) Negotiated contracts not exempt in accordance with 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to full, modified or other types of CAS coverage. The rules for determining the applicable type of CAS coverage are in 9903.201-2.
+  <concept id="section_Section_9903_201_1_T48_7010274212_dita" outputclass="Section">
+    <title>9903.201-1 CAS applicability.</title>
+    <conbody>
+      <p>(a) This subsection describes the rules for determining whether a proposed contract or subcontract is exempt from CAS. (See 9904 or 9905, as applicable.) Negotiated contracts not exempt in accordance with 9903.201-1(b) shall be subject to CAS. A CAS-covered contract may be subject to full, modified or other types of CAS coverage. The rules for determining the applicable type of CAS coverage are in 9903.201-2.
 </p>
-         <p outputclass="List1">(b) The following categories of contracts and subcontracts are exempt from all CAS requirements:
+      <p>(b) The following categories of contracts and subcontracts are exempt from all CAS requirements:
 </p>
-         <p outputclass="List2">(1) Sealed bid contracts.
+      <p>(1) Sealed bid contracts.
 </p>
-         <p outputclass="List2">(2) Negotiated contracts and subcontracts not in excess of $35 million. For purposes of this paragraph (b)(2), an order issued by one segment to another segment shall be treated as a subcontract.
+      <p>(2) Negotiated contracts and subcontracts not in excess of $35 million. For purposes of this paragraph (b)(2), an order issued by one segment to another segment shall be treated as a subcontract.
 </p>
-         <p outputclass="List2">(3) Contracts and subcontracts with small businesses.
+      <p>(3) Contracts and subcontracts with small businesses.
 </p>
-         <p outputclass="List2">(4) Contracts and subcontracts with foreign governments or their agents or instrumentalities or, insofar as the requirements of CAS other than 9904.401 and 9904.402 are concerned, any contract or subcontract awarded to a foreign concern.
+      <p>(4) Contracts and subcontracts with foreign governments or their agents or instrumentalities or, insofar as the requirements of CAS other than 9904.401 and 9904.402 are concerned, any contract or subcontract awarded to a foreign concern.
 </p>
-         <p outputclass="List2">(5) Contracts and subcontracts (or the portion of a contract or subcontract) in which the price is set by law or regulation.
+      <p>(5) Contracts and subcontracts (or the portion of a contract or subcontract) in which the price is set by law or regulation.
 </p>
-         <p outputclass="List2">(6) Contracts and subcontracts (or the portion of a contract or subcontract) for the acquisition of commercial products or commercial services.
+      <p>(6) Contracts and subcontracts (or the portion of a contract or subcontract) for the acquisition of commercial products or commercial services.
 </p>
-         <p outputclass="List2">(7) Subcontractors under the NATO PHM Ship program to be performed outside the United States by a foreign concern.
+      <p>(7) Subcontractors under the NATO PHM Ship program to be performed outside the United States by a foreign concern.
 </p>
-         <p outputclass="List2">(8) Firm-fixed-price contracts or subcontracts (or the portion of a contract or subcontract) awarded on the basis of adequate price competition without submission of certified cost or pricing data.
+      <p>(8) Firm-fixed-price contracts or subcontracts (or the portion of a contract or subcontract) awarded on the basis of adequate price competition without submission of certified cost or pricing data.
 </p>
-         <p outputclass="List1">(c) Application of paragraph (b) exemptions to indefinite delivery contracts shall be determined as follows:
+      <p>(c) Application of paragraph (b) exemptions to indefinite delivery contracts shall be determined as follows:
 </p>
-         <p outputclass="List2">(1) Multiple-award indefinite delivery contracts. The exemptions listed in paragraph (b) shall be determined at the time of award of any individual task or delivery order, and shall use the ceiling value of the individual task or deliver order to determine if the monetary threshold in (b)(2) has been met.
+      <p>(1) Multiple-award indefinite delivery contracts. The exemptions listed in paragraph (b) shall be determined at the time of award of any individual task or delivery order, and shall use the ceiling value of the individual task or deliver order to determine if the monetary threshold in (b)(2) has been met.
 </p>
-         <p outputclass="List2">(2) Single-award indefinite delivery contracts. The exemptions listed in paragraph (b) shall be determined at the time of award of the indefinite delivery contract, and shall use the ceiling value of the indefinite delivery contract to determine if the monetary threshold in (b)(2) has been met. An entire single-award indefinite delivery contract is exempt if it only provides for the ordering of commercial products or commercial services, or only provides for ordering on a firm-fixed-price basis and the indefinite delivery contract was awarded on the basis of adequate price competition without the submission of certified cost or pricing data.
+      <p>(2) Single-award indefinite delivery contracts. The exemptions listed in paragraph (b) shall be determined at the time of award of the indefinite delivery contract, and shall use the ceiling value of the indefinite delivery contract to determine if the monetary threshold in (b)(2) has been met. An entire single-award indefinite delivery contract is exempt if it only provides for the ordering of commercial products or commercial services, or only provides for ordering on a firm-fixed-price basis and the indefinite delivery contract was awarded on the basis of adequate price competition without the submission of certified cost or pricing data.
 
 
 
 
 </p>
-      </conbody>
-   </concept>
+      <p outputclass="citation">[57 FR 14153, Apr. 17, 1992; 57 FR 34167, Aug. 3, 1992, as amended at 58 FR 58801, Nov. 4, 1993; 59 FR 55753, Nov. 8, 1994; 60 FR 16540, Mar. 30, 1995; 61 FR 39361, July 29, 1996; 62 FR 31295, June 6, 1997; 65 FR 36769, June 9, 2000; 70 FR 29458, May 23, 2005; 72 FR 32810, June 14, 2007; 72 FR 36369, July 3, 2007; 76 FR 40819, July 12, 2011; 76 FR 49368, Aug. 10, 2011; 83 FR 8635, Feb. 28, 2018; 83 FR 33148, July 17, 2018; 91 FR 56060, Sept. 1, 2026]
+
+
+</p>
+    </conbody>
+  </concept>
 </dita>

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_9903_102_T48_7010274112">
-      <title class="- topic/title ">
-         <ph props="autonumber">9903.102</ph> OMB approval under the Paperwork Reduction Act.</title>
-      <conbody>
-         <p xtrc="P">The Paperwork Reduction Act of 1980 (Pub. L. 96-511) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from ten or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by OMB. OMB has assigned Control Numbers 0348-0051 and 0348-0055 to the paperwork, recordkeeping and forms associated with this regulation.
+  <concept id="section_Section_9903_102_T48_7010274112_dita" outputclass="Section">
+    <title>9903.102 OMB approval under the Paperwork Reduction Act.</title>
+    <conbody>
+      <p>The Paperwork Reduction Act of 1980 (Pub. L. 96-511) imposes a requirement on Federal agencies to obtain approval from the Office of Management and Budget (OMB) before collecting information from ten or more members of the public. The information collection and recordkeeping requirements contained in this regulation have been approved by OMB. OMB has assigned Control Numbers 0348-0051 and 0348-0055 to the paperwork, recordkeeping and forms associated with this regulation.
 </p>
-      </conbody>
-   </concept>
+      <p outputclass="citation">[57 FR 14153, Apr. 17, 1992, as amended at 59 FR 55753, Nov. 8, 1994]
+
+
+</p>
+    </conbody>
+  </concept>
 </dita>

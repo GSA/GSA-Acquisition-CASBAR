@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_9904_412-10_T48_70102750166">
-      <title class="- topic/title ">
-         <ph props="autonumber">9904.412-10</ph> [Reserved]</title>
-   </concept>
+  <concept id="section_Section_9904_412_10_T48_70102750166_dita" outputclass="Section">
+    <title>9904.412-10 [Reserved]</title>
+    <conbody />
+  </concept>
 </dita>

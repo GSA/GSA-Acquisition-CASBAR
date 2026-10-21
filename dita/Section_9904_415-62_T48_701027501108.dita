@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE dita
-  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <concept outputclass="Section" id="Section_9904_415-62_T48_701027501108">
-      <title class="- topic/title ">
-         <ph props="autonumber">9904.415-62</ph> Exemption.</title>
-      <conbody>
-         <p xtrc="P">None for this Standard.
+  <concept id="section_Section_9904_415_62_T48_701027501108_dita" outputclass="Section">
+    <title>9904.415-62 Exemption.</title>
+    <conbody>
+      <p>None for this Standard.
 
 
 </p>
-      </conbody>
-   </concept>
+    </conbody>
+  </concept>
 </dita>

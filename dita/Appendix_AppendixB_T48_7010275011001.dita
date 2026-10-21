@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+  <topic id="appendix_Appendix_AppendixB_T48_7010275011001_dita" outputclass="Appendix">
+    <title>Appendix B to 9904.414—Example—ABC Corporation</title>
+    <body>
+      <p>ABC Corporation has a home office that controls three operating divisions (Business Units A, B &amp; C). The home office includes an administrative computer center whose costs are allocated separately to the business units. The separate allocation conforms to the requirements specified in the Cost Accounting Standard No. 403. Tables I through VI deal with home office expense allocations to business units.
+</p>
+      <p>The A Division is a business unit as defined by the CASB, and it uses one engineering and one manufacturing overhead pool to accumulate costs for charging overhead to final cost objectives. In addition, the indirect cost allocation process also uses two “service centers” with their own indirect cost pools: Occupancy and technical computer center.
+</p>
+      <p>The costs accumulated in the occupancy pool are allocated among manufacturing overhead, engineering overhead, and the technical computer center on the basis of floor space occupied. The costs accumulated in the technical computer center cost pool are allocated to users on the basis of a CPU hourly rate. Some of these allocations are made to engineering or manufacturing overhead while others are allocated direct to final cost objectives.
+</p>
+      <p>At the business unit level, all the indirect expense incurred is regarded either as an engineering or manufacturing expense. Thus the sole item that enters into the business unit G&amp;A expense pool is the allocation received by the A Division from the home office.
+</p>
+      <p>Operating results for the A Division are given in Table VII. Facilities capital items for the division are given in Table IX.
+</p>
+      <p>The example is based on a single set of illustrative contract cost data given in Table VIII. Since two methods, the “regular” and the “alternative” method, are potentially available for computing cost of money on facilities capital items two sets of different results can be considered.
+</p>
+      <p>In addition, total cost input is used in the example as the allocation base for the G&amp;A expense. Two variations of this example have been prepared to illustrate the impact of excluding or including cost of money from total cost input. Variation I, summarized in Table XIII, excludes cost of money from the cost input allocation base. Variation II, summarized in Tables XVII and XVIII, includes cost of money in the cost input allocation base.
+</p>
+      <p>Throughout the example, where appropriate, cross references have been made to the text of the relevant parts of the Standard.
+</p>
+      <p>Variation I—Total Cost Input Allocation Base Excludes Cost of Money
+</p>
+      <p>Table I—Net Book Value of Home Office Facilities Capital
+</p>
+      <table>
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <thead>
+            <row>
+              <entry>
+                <p>
+</p>
+              </entry>
+              <entry>
+                <p>Dec. 31, 1974
+</p>
+              </entry>
+              <entry>
+                <p>Dec. 31, 1975
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Administrative computer center facilities capital</p>
+              </entry>
+              <entry>
+                <p>$550,000</p>
+              </entry>
+              <entry>
+                <p>$450,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office facilities capital</p>
+              </entry>
+              <entry>
+                <p>420,000</p>
+              </entry>
+              <entry>
+                <p>380,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>970,000</p>
+              </entry>
+              <entry>
+                <p>830,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The assets in the above table generate allowable depreciation or amortization, as explained in Instructions for Form CASB CMF (Basis). Thus they should be included in the asset base for cost of money computation.
+</p>
+      <p>Table II—Home Office Facilities Capital Annual Average Balances
+</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <tbody>
+            <row>
+              <entry>
+                <p>Administrative computer center facilities capital</p>
+              </entry>
+              <entry>
+                <p>$500,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office facilities capital</p>
+              </entry>
+              <entry>
+                <p>400,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>900,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The above averages are based on data in Table I computed in accordance with the criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate).
+</p>
+      <p>$970,000 + $830,000 = $1,800,000
+<sup>1</sup>2 = $900,000
+</p>
+      <p>Table III—Home Office Depreciation and Amortization for 1975
+</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <tbody>
+            <row>
+              <entry>
+                <p>Administrative computer center facilities capital</p>
+              </entry>
+              <entry>
+                <p>$100,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office facilities capital</p>
+              </entry>
+              <entry>
+                <p>40,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>140,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Table IV—Allocation of ABC Home Office Expenses to Divisions (Business Units)
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry morerows="1">
+                <p>
+</p>
+              </entry>
+              <entry morerows="1">
+                <p>Total expense
+</p>
+              </entry>
+              <entry namest="c3" nameend="c5">
+                <p>Allocation of business units
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>A
+</p>
+              </entry>
+              <entry>
+                <p>B
+</p>
+              </entry>
+              <entry>
+                <p>C
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Administrative computer center</p>
+              </entry>
+              <entry>
+                <p>$1,800,000</p>
+              </entry>
+              <entry>
+                <p>$900,000</p>
+              </entry>
+              <entry>
+                <p>$900,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office</p>
+              </entry>
+              <entry>
+                <p>4,800,000</p>
+              </entry>
+              <entry>
+                <p>2,400,000</p>
+              </entry>
+              <entry>
+                <p>1,200,000</p>
+              </entry>
+              <entry>
+                <p>1,200,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>6,600,000</p>
+              </entry>
+              <entry>
+                <p>3,300,000</p>
+              </entry>
+              <entry>
+                <p>2,100,000</p>
+              </entry>
+              <entry>
+                <p>1,200,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>The above allocation is carried out in accordance with CAS 403. The expense allocated to individual business units above includes depreciation and amortization as reflected in Table V.
+</p>
+      <p>Table V—Depreciation and Amortization Component of ABC Home Office Expense
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry morerows="1">
+                <p>
+</p>
+              </entry>
+              <entry morerows="1">
+                <p>Total depreciation and amortization expense
+</p>
+              </entry>
+              <entry namest="c3" nameend="c5">
+                <p>Allocation of business units
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>A
+</p>
+              </entry>
+              <entry>
+                <p>B
+</p>
+              </entry>
+              <entry>
+                <p>C
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Administrative computer center</p>
+              </entry>
+              <entry>
+                <p>$100,000</p>
+              </entry>
+              <entry>
+                <p>$50,000</p>
+              </entry>
+              <entry>
+                <p>$50,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office</p>
+              </entry>
+              <entry>
+                <p>40,000</p>
+              </entry>
+              <entry>
+                <p>20,000</p>
+              </entry>
+              <entry>
+                <p>10,000</p>
+              </entry>
+              <entry>
+                <p>10,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>140,000</p>
+              </entry>
+              <entry>
+                <p>70,000</p>
+              </entry>
+              <entry>
+                <p>60,000</p>
+              </entry>
+              <entry>
+                <p>10,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p outputclass="heading">Table VI—Allocation of Home Office Facilities Capital to Business Units
+</p>
+      <p>(a) Depreciation and amortization allocation in Table V converted to percentages.
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry morerows="1">
+                <p>
+</p>
+              </entry>
+              <entry morerows="1">
+                <p>Total depreciation and amoritzation expense (in percent)
+</p>
+              </entry>
+              <entry namest="c3" nameend="c5">
+                <p>Allocation of business units (in percent)
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>A
+</p>
+              </entry>
+              <entry>
+                <p>B
+</p>
+              </entry>
+              <entry>
+                <p>C
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Administrative computer center</p>
+              </entry>
+              <entry>
+                <p>100</p>
+              </entry>
+              <entry>
+                <p>50</p>
+              </entry>
+              <entry>
+                <p>50
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office</p>
+              </entry>
+              <entry>
+                <p>100</p>
+              </entry>
+              <entry>
+                <p>50</p>
+              </entry>
+              <entry>
+                <p>25</p>
+              </entry>
+              <entry>
+                <p>25</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>(b) Application of percentages in (a) to average net book values in Table II, in accordance with criteria in Instructions for Form CASB CMF (Recorded, Leased Property, Corporate).
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry morerows="1">
+                <p>
+</p>
+              </entry>
+              <entry morerows="1">
+                <p>Total net book value
+</p>
+              </entry>
+              <entry namest="c3" nameend="c5">
+                <p>Allocation of business units
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>A
+</p>
+              </entry>
+              <entry>
+                <p>B
+</p>
+              </entry>
+              <entry>
+                <p>C
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Administrative computer center facilities capital</p>
+              </entry>
+              <entry>
+                <p>$500,000</p>
+              </entry>
+              <entry>
+                <p>$250,000</p>
+              </entry>
+              <entry>
+                <p>$250,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other home office facilities capital</p>
+              </entry>
+              <entry>
+                <p>400,000</p>
+              </entry>
+              <entry>
+                <p>200,000</p>
+              </entry>
+              <entry>
+                <p>100,000</p>
+              </entry>
+              <entry>
+                <p>$100,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>900,000</p>
+              </entry>
+              <entry>
+                <p>450,000</p>
+              </entry>
+              <entry>
+                <p>350,000</p>
+              </entry>
+              <entry>
+                <p>100,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Table VII—“A” Division 1975 Operating Results
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry>
+                <p>
+</p>
+              </entry>
+              <entry>
+                <p>Total cost input and other work G.&amp;A.
+</p>
+              </entry>
+              <entry>
+                <p>Fixed-price CAS-covered contract
+</p>
+              </entry>
+              <entry>
+                <p>Cost reimbursement CAS-covered contracts
+</p>
+              </entry>
+              <entry>
+                <p>Commercial and other work
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Direct material:
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Purchased parts</p>
+              </entry>
+              <entry>
+                <p>$2,000,000</p>
+              </entry>
+              <entry>
+                <p>$100,000</p>
+              </entry>
+              <entry>
+                <p>$100,000</p>
+              </entry>
+              <entry>
+                <p>$1,800,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Subcontract items</p>
+              </entry>
+              <entry>
+                <p>21,530,000</p>
+              </entry>
+              <entry>
+                <p>11,750,000</p>
+              </entry>
+              <entry>
+                <p>7,205,000</p>
+              </entry>
+              <entry>
+                <p>2,575,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>23,530,000</p>
+              </entry>
+              <entry>
+                <p>11,850,000</p>
+              </entry>
+              <entry>
+                <p>7,305,000</p>
+              </entry>
+              <entry>
+                <p>4,375,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Director labor and overhead:
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Engineering labor</p>
+              </entry>
+              <entry>
+                <p>2,000,000</p>
+              </entry>
+              <entry>
+                <p>1,500,000</p>
+              </entry>
+              <entry>
+                <p>500,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Engineering overhead (80 pct of direct engineering labor)</p>
+              </entry>
+              <entry>
+                <p>1,600,000</p>
+              </entry>
+              <entry>
+                <p>1,200,000</p>
+              </entry>
+              <entry>
+                <p>400,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing labor</p>
+              </entry>
+              <entry>
+                <p>3,000,000</p>
+              </entry>
+              <entry>
+                <p>1,200,000</p>
+              </entry>
+              <entry>
+                <p>200,000</p>
+              </entry>
+              <entry>
+                <p>1,600,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing overhead (200 pct of direct management labor)</p>
+              </entry>
+              <entry>
+                <p>6,000,000</p>
+              </entry>
+              <entry>
+                <p>2,400,000</p>
+              </entry>
+              <entry>
+                <p>400,000</p>
+              </entry>
+              <entry>
+                <p>3,200,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Other direct charges:
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer center direct charge 2,280 h at $250/h</p>
+              </entry>
+              <entry>
+                <p>570,000</p>
+              </entry>
+              <entry>
+                <p>200,000</p>
+              </entry>
+              <entry>
+                <p>370,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input (excluding cost of money)</p>
+              </entry>
+              <entry>
+                <p>36,700,000</p>
+              </entry>
+              <entry>
+                <p>18,350,000</p>
+              </entry>
+              <entry>
+                <p>9,175,000</p>
+              </entry>
+              <entry>
+                <p>9,175,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>G. &amp; A. (8.99 pct of cost input)</p>
+              </entry>
+              <entry>
+                <p>3,300,000</p>
+              </entry>
+              <entry>
+                <p>1,650,000</p>
+              </entry>
+              <entry>
+                <p>825,000</p>
+              </entry>
+              <entry>
+                <p>825,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>40,000,000</p>
+              </entry>
+              <entry>
+                <p>20,000,000</p>
+              </entry>
+              <entry>
+                <p>10,000,000</p>
+              </entry>
+              <entry>
+                <p>10,000,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Table VIII—Cost Data for the Contract
+</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <tbody>
+            <row>
+              <entry>
+                <p>Purchased parts</p>
+              </entry>
+              <entry>
+                <p>$85,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Subcontract items</p>
+              </entry>
+              <entry>
+                <p>990,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer time 280 h at $250/h</p>
+              </entry>
+              <entry>
+                <p>70,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Engineering labor</p>
+              </entry>
+              <entry>
+                <p>330,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Engineering overhead at 80 pct</p>
+              </entry>
+              <entry>
+                <p>264,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing labor</p>
+              </entry>
+              <entry>
+                <p>1,210,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing overhead at 200 pct</p>
+              </entry>
+              <entry>
+                <p>2,420,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input (excluding cost of money)</p>
+              </entry>
+              <entry>
+                <p>5,369,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>G &amp; A. at 8.99 pct</p>
+              </entry>
+              <entry>
+                <p>483,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input and G. &amp; A. (excluding cost of money)</p>
+              </entry>
+              <entry>
+                <p>5,852,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p outputclass="heading">Table IX—Division A Facilities Capital
+</p>
+      <p>Average net book values are computed in accordance with Instructions to Form CASB CMF. Average figures only are given, the underlying beginning and ending balances for 1975 have not been reproduced.
+</p>
+      <table>
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <thead>
+            <row>
+              <entry>
+                <p>Name of indirect cost pool the asset is associated with
+</p>
+              </entry>
+              <entry>
+                <p>Average net book value
+</p>
+              </entry>
+              <entry>
+                <p>Annual depreciation
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering overhead</p>
+              </entry>
+              <entry>
+                <p>$320,000</p>
+              </entry>
+              <entry>
+                <p>$40,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing overhead</p>
+              </entry>
+              <entry>
+                <p>4,500,000</p>
+              </entry>
+              <entry>
+                <p>900,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer center</p>
+              </entry>
+              <entry>
+                <p>450,000</p>
+              </entry>
+              <entry>
+                <p>90,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Occupancy</p>
+              </entry>
+              <entry>
+                <p>3,000,000</p>
+              </entry>
+              <entry>
+                <p>200,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Facilities capital recorded by division A (see Form CASB CMF instructions for description of recorded)</p>
+              </entry>
+              <entry>
+                <p>8,270,000</p>
+              </entry>
+              <entry>
+                <p>1,230,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Allocated from home office, table VI</p>
+              </entry>
+              <entry>
+                <p>450,000
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total division A</p>
+              </entry>
+              <entry>
+                <p>8,720,000</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p outputclass="heading">Table X—Allocation of Undistributed Facilities Capital
+</p>
+      <p>(a) <i>Occupancy Pool Assets.</i> Total occupancy pool expenses are assumed to be $1,000,000 of which $200,000 is depreciation per Table IX. Allocation of the $3,000,000 net book value of assets per Table IX is performed on the basis of floor space utilization.
+</p>
+      <table>
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <thead>
+            <row>
+              <entry>
+                <p>Indirect cost pool
+</p>
+              </entry>
+              <entry>
+                <p>Occupancy expense and depreciation allocation
+</p>
+              </entry>
+              <entry>
+                <p>Percent of total floor space utilized
+</p>
+              </entry>
+              <entry>
+                <p>Asset allocation
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering</p>
+              </entry>
+              <entry>
+                <p>$200,000</p>
+              </entry>
+              <entry>
+                <p>20</p>
+              </entry>
+              <entry>
+                <p>$600,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing</p>
+              </entry>
+              <entry>
+                <p>750,000</p>
+              </entry>
+              <entry>
+                <p>75</p>
+              </entry>
+              <entry>
+                <p>2,250,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer</p>
+              </entry>
+              <entry>
+                <p>50,000</p>
+              </entry>
+              <entry>
+                <p>5</p>
+              </entry>
+              <entry>
+                <p>150,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>1,000,000</p>
+              </entry>
+              <entry>
+                <p>100</p>
+              </entry>
+              <entry>
+                <p>3,000,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>(b) Technical Computer Center Assets. Total technical computer center expenses for the year are assumed to be $770,000 including $90,000 depreciation per Table IX and $50,000 charge from the occupancy pool per paragraph (a) of this table. A charging rate of $250 per hour is computed assuming a total of 3,080 chargeable CPU hours per annum. The net book value of assets amounting to $600,000 ($450,000 per Table IX plus the $150,000 allocated per (a) above) is allocated on the basis of CPU hours utilized.
+</p>
+      <table>
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <thead>
+            <row>
+              <entry>
+                <p>Overhead pool or cost objective
+</p>
+              </entry>
+              <entry>
+                <p>Hours charged
+</p>
+              </entry>
+              <entry>
+                <p>Amount charged
+</p>
+              </entry>
+              <entry>
+                <p>Percent
+</p>
+              </entry>
+              <entry>
+                <p>Asset allocation
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Fixed price contracts, table VII</p>
+              </entry>
+              <entry>
+                <p>800</p>
+              </entry>
+              <entry>
+                <p>$200,000</p>
+              </entry>
+              <entry>
+                <p>26</p>
+              </entry>
+              <entry>
+                <p>$156,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost reimbursement contracts, table VII</p>
+              </entry>
+              <entry>
+                <p>1,480</p>
+              </entry>
+              <entry>
+                <p>370,000</p>
+              </entry>
+              <entry>
+                <p>48</p>
+              </entry>
+              <entry>
+                <p>288,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Engineering overhead pool</p>
+              </entry>
+              <entry>
+                <p>800</p>
+              </entry>
+              <entry>
+                <p>200,000</p>
+              </entry>
+              <entry>
+                <p>26</p>
+              </entry>
+              <entry>
+                <p>156,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>3,080</p>
+              </entry>
+              <entry>
+                <p>770,000</p>
+              </entry>
+              <entry>
+                <p>100</p>
+              </entry>
+              <entry>
+                <p>600,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>(c) Summary of Undistributed Facilities Capital Allocation. Undistributed (per Table IX).
+</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <tbody>
+            <row>
+              <entry>
+                <p>Technical computer center</p>
+              </entry>
+              <entry>
+                <p>$450,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Occupancy</p>
+              </entry>
+              <entry>
+                <p>3,000,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>3,450,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Distribution per paragraph (a) or (b) of this table of balances to overhead pools that result in charges direct to final cost objectives.
+</p>
+      <table>
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <thead>
+            <row>
+              <entry>
+                <p>Overhead pool
+</p>
+              </entry>
+              <entry>
+                <p>(a)
+</p>
+              </entry>
+              <entry>
+                <p>(b)
+</p>
+              </entry>
+              <entry>
+                <p>Total
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering</p>
+              </entry>
+              <entry>
+                <p>$600,000</p>
+              </entry>
+              <entry>
+                <p>$156,000</p>
+              </entry>
+              <entry>
+                <p>$756,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing</p>
+              </entry>
+              <entry>
+                <p>2,250,000</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>2,250,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer center (direct charge to contracts)</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>444,000</p>
+              </entry>
+              <entry>
+                <p>444,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total</p>
+              </entry>
+              <entry>
+                <p>2,850,000</p>
+              </entry>
+              <entry>
+                <p>600,000</p>
+              </entry>
+              <entry>
+                <p>3,450,000</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fig>
+        <image href="../Graphics/ec02fe91.070.gif" />
+      </fig>
+      <fig>
+        <image href="../Graphics/ec02fe91.071.gif" />
+      </fig>
+      <p>Table XIII—Summary of Cost of Money Computation on Facilities Capital
+</p>
+      <p>[Cost of money excluded from total cost input]
+</p>
+      <table>
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <colspec colnum="5" colname="c5" />
+          <colspec colnum="6" colname="c6" />
+          <thead>
+            <row>
+              <entry>
+                <p>Allocation base
+</p>
+              </entry>
+              <entry>
+                <p>Allocated to contract, table VIII
+</p>
+              </entry>
+              <entry>
+                <p>Computation using regular facilities, capital cost of money factor, table XI
+</p>
+              </entry>
+              <entry>
+                <p>Amount
+</p>
+              </entry>
+              <entry>
+                <p>Computation using alternative facilities capital, cost of money factor, table XI
+</p>
+              </entry>
+              <entry>
+                <p>Amount
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering labor</p>
+              </entry>
+              <entry>
+                <p>$330,000</p>
+              </entry>
+              <entry>
+                <p>0.04304</p>
+              </entry>
+              <entry>
+                <p>$14,203</p>
+              </entry>
+              <entry>
+                <p>0.0128</p>
+              </entry>
+              <entry>
+                <p>$4,244
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing labor</p>
+              </entry>
+              <entry>
+                <p>1,210,000</p>
+              </entry>
+              <entry>
+                <p>.18</p>
+              </entry>
+              <entry>
+                <p>217,800</p>
+              </entry>
+              <entry>
+                <p>.12</p>
+              </entry>
+              <entry>
+                <p>145,200
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer time</p>
+              </entry>
+              <entry>
+                <p>
+                  <sup>1</sup> 280</p>
+              </entry>
+              <entry>
+                <p>15.57895</p>
+              </entry>
+              <entry>
+                <p>4,362</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost input</p>
+              </entry>
+              <entry>
+                <p>$5,369,000</p>
+              </entry>
+              <entry>
+                <p>.00098</p>
+              </entry>
+              <entry>
+                <p>5,261</p>
+              </entry>
+              <entry>
+                <p>.00850</p>
+              </entry>
+              <entry>
+                <p>45,636
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost of money on facilities capital</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>241,626</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>195,060
+</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <sup>1</sup> Hours.</p>
+      <p>Variation II—Total Cost Input Allocation Base Includes Cost of Money
+</p>
+      <p>Table XIV—Recomputation of “A” Division Total Cost Input To Reflect Inclusion of Cost of Money
+</p>
+      <table>
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <tbody>
+            <row>
+              <entry>
+                <p>(a) Regular method:
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input per table VII</p>
+              </entry>
+              <entry>
+                <p>$36,700,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money applicable to facilities capital identified with overhead pools per subtotal in column 5, table XV</p>
+              </entry>
+              <entry>
+                <p>661,600
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input including cost of money</p>
+              </entry>
+              <entry>
+                <p>37,361,600
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>(b) Alternative method:
+</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input per table VII</p>
+              </entry>
+              <entry>
+                <p>36,700,000
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money applicable to facilities capital identified with overhead pools per subtotal in column 5, table XVI</p>
+              </entry>
+              <entry>
+                <p>385,600
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost input including cost of money</p>
+              </entry>
+              <entry>
+                <p>37,085,900</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <fig>
+        <image href="../Graphics/ec02fe91.072.gif" />
+      </fig>
+      <fig>
+        <image href="../Graphics/ec02fe91.073.gif" />
+      </fig>
+      <p>Table XVII—Summary of Cost of Money Computation on Facilities Capital
+</p>
+      <p>[Cost of money included in total cost input—regular method]
+</p>
+      <table>
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <thead>
+            <row>
+              <entry>
+                <p>Allocation base
+</p>
+              </entry>
+              <entry>
+                <p>Allocated to contract, table VIII
+</p>
+              </entry>
+              <entry>
+                <p>Computation using regular facilities, capital cost of money factor, table XV
+</p>
+              </entry>
+              <entry>
+                <p>Amount
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering labor</p>
+              </entry>
+              <entry>
+                <p>$330,000</p>
+              </entry>
+              <entry>
+                <p>0.04304</p>
+              </entry>
+              <entry>
+                <p>$14,203
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing labor</p>
+              </entry>
+              <entry>
+                <p>1,210,000</p>
+              </entry>
+              <entry>
+                <p>.18</p>
+              </entry>
+              <entry>
+                <p>217,800
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Technical computer time</p>
+              </entry>
+              <entry>
+                <p>
+                  <sup>1</sup> 280</p>
+              </entry>
+              <entry>
+                <p>15.57895</p>
+              </entry>
+              <entry>
+                <p>4,362
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money related to overheads</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>236,365
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money above to be included in cost input</p>
+              </entry>
+              <entry>
+                <p>236,365</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost input, table VIII</p>
+              </entry>
+              <entry>
+                <p>5,369,000</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost input including cost of money</p>
+              </entry>
+              <entry>
+                <p>5,605,365</p>
+              </entry>
+              <entry>
+                <p>.00096</p>
+              </entry>
+              <entry>
+                <p>5,381
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost of money on facilities capital</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>241,674
+</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <sup>1</sup> Hours.</p>
+      <p>Table XVIII—Summary of Cost of Money Computation on Facilities Capital
+</p>
+      <p>[Cost of money included in total cost input—alternative method]
+</p>
+      <table>
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1" />
+          <colspec colnum="2" colname="c2" />
+          <colspec colnum="3" colname="c3" />
+          <colspec colnum="4" colname="c4" />
+          <thead>
+            <row>
+              <entry>
+                <p>Allocation base
+</p>
+              </entry>
+              <entry>
+                <p>Allocated to contract, table VIII
+</p>
+              </entry>
+              <entry>
+                <p>Computation using alternative facilities, capital cost of money factor, table XVI
+</p>
+              </entry>
+              <entry>
+                <p>Amount
+</p>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <p>Engineering labor</p>
+              </entry>
+              <entry>
+                <p>$330,000</p>
+              </entry>
+              <entry>
+                <p>0.0128</p>
+              </entry>
+              <entry>
+                <p>$4,224
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Manufacturing labor</p>
+              </entry>
+              <entry>
+                <p>1,210,000</p>
+              </entry>
+              <entry>
+                <p>.12</p>
+              </entry>
+              <entry>
+                <p>145,200
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money related to overheads</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>149,424
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost of money above to be included in cost input</p>
+              </entry>
+              <entry>
+                <p>149,424</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost input, table VIII</p>
+              </entry>
+              <entry>
+                <p>5,369,000</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p />
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Cost input including cost of money</p>
+              </entry>
+              <entry>
+                <p>5,518,424</p>
+              </entry>
+              <entry>
+                <p>.00841</p>
+              </entry>
+              <entry>
+                <p>46,410
+</p>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <p>Total cost of money on facilities capital</p>
+              </entry>
+              <entry>
+                <p>5,518,424</p>
+              </entry>
+              <entry>
+                <p />
+              </entry>
+              <entry>
+                <p>195,834</p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p outputclass="citation">[57 FR 14153, Apr. 17, 1992; 57 FR 34081, 34167, Aug. 3, 1992]
+
+
+
+
+
+</p>
+    </body>
+  </topic>
+</dita>

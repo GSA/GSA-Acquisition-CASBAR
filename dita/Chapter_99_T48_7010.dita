@@ -2,18 +2,7 @@
 <!DOCTYPE dita
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
-   <CoverTitle id="d1e15585">
-      <CTitle/>
-      <CBody>
-         <CoverIssued>Issued Fiscal Year 2020 by the:</CoverIssued>
-         <CoverGSADODNASA>GENERAL SERVICES ADMINISTRATION</CoverGSADODNASA>
-         <CoverEdition/>
-         <CoverTitle48>
-Title 48 - Volume 99 - </CoverTitle48>
-         <CoverChapterTitle>Chapter 99</CoverChapterTitle>
-         <CoverFARTitle/>
-         <CoverVolumeCtr>Volume 99</CoverVolumeCtr>
-         <ForewordTitle/>
-      </CBody>
-   </CoverTitle>
+   <topic id="d1e53" outputclass="Chapter">
+      <title class="- topic/title "> CHAPTER 99—COST ACCOUNTING STANDARDS BOARD, OFFICE OF FEDERAL PROCUREMENT POLICY, OFFICE OF MANAGEMENT AND BUDGET</title>
+   </topic>
 </dita>
