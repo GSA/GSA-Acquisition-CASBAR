@@ -64,51 +64,69 @@
           <colspec colnum="6" colname="c6" />
           <colspec colnum="7" colname="c7" />
           <colspec colnum="8" colname="c8" />
-          <thead>
+          <tbody>
             <row>
               <entry morerows="1">
                 <p>
-</p>
+                  <b>
+</b>
+                </p>
               </entry>
               <entry namest="c2" nameend="c5">
-                <p>Contracts prior to Jan. 1, 1978
-</p>
+                <p>
+                  <b>Contracts prior to Jan. 1, 1978
+</b>
+                </p>
               </entry>
               <entry namest="c6" nameend="c8">
-                <p>Contracts prior to Jan. 1, 1978
-</p>
+                <p>
+                  <b>Contracts prior to Jan. 1, 1978
+</b>
+                </p>
               </entry>
             </row>
-          </thead>
-          <tbody>
             <row>
               <entry>
-                <p>Total
-</p>
+                <p>
+                  <b>Total
+</b>
+                </p>
               </entry>
               <entry>
-                <p>Non-CAS work
-</p>
+                <p>
+                  <b>Non-CAS work
+</b>
+                </p>
               </entry>
               <entry>
-                <p>CAS-fixed price work
-</p>
+                <p>
+                  <b>CAS-fixed price work
+</b>
+                </p>
               </entry>
               <entry>
-                <p>CAS-cost contract
-</p>
+                <p>
+                  <b>CAS-cost contract
+</b>
+                </p>
               </entry>
               <entry>
-                <p>Non-CAS work
-</p>
+                <p>
+                  <b>Non-CAS work
+</b>
+                </p>
               </entry>
               <entry>
-                <p>CAS-fixed price work
-</p>
+                <p>
+                  <b>CAS-fixed price work
+</b>
+                </p>
               </entry>
               <entry>
-                <p>CAS-cost contracts
-</p>
+                <p>
+                  <b>CAS-cost contracts
+</b>
+                </p>
               </entry>
             </row>
             <row>

@@ -172,35 +172,45 @@
           <colspec colnum="3" colname="c3" />
           <colspec colnum="4" colname="c4" />
           <colspec colnum="5" colname="c5" />
-          <thead>
+          <tbody>
             <row>
               <entry morerows="1">
                 <p>
-</p>
+                  <b>
+</b>
+                </p>
               </entry>
               <entry morerows="1">
-                <p>Total expense
-</p>
+                <p>
+                  <b>Total expense
+</b>
+                </p>
               </entry>
               <entry namest="c3" nameend="c5">
-                <p>Allocation of business units
-</p>
+                <p>
+                  <b>Allocation of business units
+</b>
+                </p>
               </entry>
             </row>
-          </thead>
-          <tbody>
             <row>
               <entry>
-                <p>A
-</p>
+                <p>
+                  <b>A
+</b>
+                </p>
               </entry>
               <entry>
-                <p>B
-</p>
+                <p>
+                  <b>B
+</b>
+                </p>
               </entry>
               <entry>
-                <p>C
-</p>
+                <p>
+                  <b>C
+</b>
+                </p>
               </entry>
             </row>
             <row>
@@ -270,35 +280,45 @@
           <colspec colnum="3" colname="c3" />
           <colspec colnum="4" colname="c4" />
           <colspec colnum="5" colname="c5" />
-          <thead>
+          <tbody>
             <row>
               <entry morerows="1">
                 <p>
-</p>
+                  <b>
+</b>
+                </p>
               </entry>
               <entry morerows="1">
-                <p>Total depreciation and amortization expense
-</p>
+                <p>
+                  <b>Total depreciation and amortization expense
+</b>
+                </p>
               </entry>
               <entry namest="c3" nameend="c5">
-                <p>Allocation of business units
-</p>
+                <p>
+                  <b>Allocation of business units
+</b>
+                </p>
               </entry>
             </row>
-          </thead>
-          <tbody>
             <row>
               <entry>
-                <p>A
-</p>
+                <p>
+                  <b>A
+</b>
+                </p>
               </entry>
               <entry>
-                <p>B
-</p>
+                <p>
+                  <b>B
+</b>
+                </p>
               </entry>
               <entry>
-                <p>C
-</p>
+                <p>
+                  <b>C
+</b>
+                </p>
               </entry>
             </row>
             <row>
@@ -368,35 +388,45 @@
           <colspec colnum="3" colname="c3" />
           <colspec colnum="4" colname="c4" />
           <colspec colnum="5" colname="c5" />
-          <thead>
+          <tbody>
             <row>
               <entry morerows="1">
                 <p>
-</p>
+                  <b>
+</b>
+                </p>
               </entry>
               <entry morerows="1">
-                <p>Total depreciation and amoritzation expense (in percent)
-</p>
+                <p>
+                  <b>Total depreciation and amoritzation expense (in percent)
+</b>
+                </p>
               </entry>
               <entry namest="c3" nameend="c5">
-                <p>Allocation of business units (in percent)
-</p>
+                <p>
+                  <b>Allocation of business units (in percent)
+</b>
+                </p>
               </entry>
             </row>
-          </thead>
-          <tbody>
             <row>
               <entry>
-                <p>A
-</p>
+                <p>
+                  <b>A
+</b>
+                </p>
               </entry>
               <entry>
-                <p>B
-</p>
+                <p>
+                  <b>B
+</b>
+                </p>
               </entry>
               <entry>
-                <p>C
-</p>
+                <p>
+                  <b>C
+</b>
+                </p>
               </entry>
             </row>
             <row>
@@ -446,35 +476,45 @@
           <colspec colnum="3" colname="c3" />
           <colspec colnum="4" colname="c4" />
           <colspec colnum="5" colname="c5" />
-          <thead>
+          <tbody>
             <row>
               <entry morerows="1">
                 <p>
-</p>
+                  <b>
+</b>
+                </p>
               </entry>
               <entry morerows="1">
-                <p>Total net book value
-</p>
+                <p>
+                  <b>Total net book value
+</b>
+                </p>
               </entry>
               <entry namest="c3" nameend="c5">
-                <p>Allocation of business units
-</p>
+                <p>
+                  <b>Allocation of business units
+</b>
+                </p>
               </entry>
             </row>
-          </thead>
-          <tbody>
             <row>
               <entry>
-                <p>A
-</p>
+                <p>
+                  <b>A
+</b>
+                </p>
               </entry>
               <entry>
-                <p>B
-</p>
+                <p>
+                  <b>B
+</b>
+                </p>
               </entry>
               <entry>
-                <p>C
-</p>
+                <p>
+                  <b>C
+</b>
+                </p>
               </entry>
             </row>
             <row>
