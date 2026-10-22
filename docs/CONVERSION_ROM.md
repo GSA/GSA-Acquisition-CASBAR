@@ -8,7 +8,7 @@ This workflow is implemented. It was exercised with saved GovInfo inputs through
 
 ## Local operation
 
-Requirements: a CASBAR Git checkout on a named branch tracking `origin/<same-name>`; a clean checkout and an up-to-date remote branch; configured Git author and push credentials; Python 3.10 or later, Java, Bash, curl, and Git; the sibling `GSA-Acquisition-FCS-Drupal-docker` checkout containing Saxon 9.7 and DITA-OT 2.5.4. If the tooling checkout is elsewhere, set `GSA_TOOLING_ROOT` to its absolute path. The bundled toolkit contains the required GSA HTML/PDF, DOCX, and EPUB plugins.
+Requirements: a CASBAR Git checkout on a named branch tracking `origin/<same-name>`; no tracked changes or untracked files in generated output paths, and an up-to-date remote branch; configured Git author and push credentials; Python 3.10 or later, Java, Bash, curl, and Git; the sibling `GSA-Acquisition-FCS-Drupal-docker` checkout containing Saxon 9.7 and DITA-OT 2.5.4. If the tooling checkout is elsewhere, set `GSA_TOOLING_ROOT` to its absolute path. The bundled toolkit contains the required GSA HTML/PDF, DOCX, and EPUB plugins.
 
 ```bash
 cd /Users/stevengebremariam/Sites/aws/stage/GSA-Acquisition-CASBAR
